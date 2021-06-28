@@ -1,3 +1,3 @@
-export const f = ()=>{
-    return "It's working!!!"
+export const f = () => {
+  return 'It s working!!!';
 };
